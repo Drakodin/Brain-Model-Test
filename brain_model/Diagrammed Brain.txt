@@ -1,0 +1,38 @@
+Cerebral Cortex -> Central Lateral Thalamus -> Brain Stem
+--- Defined root of consciousness ---
+>>> Define mapping layer of sensors
+>>> Define processing layer of data from sensors
+>>> Define internal processors and forward initial signals
+>>> Forward to processing layer
+>>> Forward to mapping layer of motor.
+----------------------------------------------------
+
+Sensor Input Layer                             Motor Layer
+                  \                           /
+                   \                         /
+                    \                       /
+                     Accepting Process Layer
+                    /                       
+                   /                         
+                  /                           
+      Memory State                             
+                  \
+                   \
+                    \
+                     True Processor
+                    /              \
+                   /                \  
+                  /                  \
+ Automatic Actions                    Predefined-Motion Controls
+--------------------------------------------------------------------------------------------
+Mental Structure Layer Priority
+> SIL - Accept some sensory data
+> APL - Detect sensory input and forward image and detection to layers
+> MS - Store image as type ""
+> TP - Process image with distance and forward to actions and motion controls
+> AA - Stores defined non-movement actions
+> PMC - Stores defined movement actions
+> ML - Receives actions via APL with TP return to forward to motor controls.
+--------------------------------------------------------------------------------------------
+Sample Ordering
+Input -> SIL -> APL -> MS -> TP -accesses-> AA/PMC -> MS -> APL -> ML
