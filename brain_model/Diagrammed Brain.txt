@@ -6,24 +6,7 @@ Cerebral Cortex -> Central Lateral Thalamus -> Brain Stem
 >>> Forward to processing layer
 >>> Forward to mapping layer of motor.
 ----------------------------------------------------
-
-Sensor Input Layer                             Motor Layer
-                  \                           /
-                   \                         /
-                    \                       /
-                     Accepting Process Layer
-                    /                       
-                   /                         
-                  /                           
-      Memory State                             
-                  \
-                   \
-                    \
-                     True Processor
-                    /              \
-                   /                \  
-                  /                  \
- Automatic Actions                    Predefined-Motion Controls
+Moved to README.md
 --------------------------------------------------------------------------------------------
 Mental Structure Layer Priority
 > SIL - Accept some sensory data
